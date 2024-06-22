@@ -1,16 +1,30 @@
 ## Hey, I'm Long 👋
 
+I am an Artificial Intelligence major in Vietnam with a passion for data engineer and I am actively seeking job opportunities in this field.
 
-**longNguyen010203/longNguyen010203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 📦 Technologies
 
-Here are some ideas to get you started:
+**Languages**: `Python` `SQL` `PySpark` `Shell` `C++`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Processing**: `Polars` `Apache Spark` `Apache Hadoop` `Dbt` `Seaborn` `Matplotlib` `Selenium` `BeautifulSoup` `Pandas` `ETL` `ELT`
+
+**Storage**: `PostgreSQL` `MySQL` `SQL Server` `Redshift` `Mongodb` `Snowflake` `MinIO` `S3` `SQLite`
+
+**Orchestration**: `Apache Airflow` `Dagster`
+
+**Cloud**: `S3` `EC2` `IAM` `VPC` `Redshift` `RDS` `EMR` `Glue`
+
+**DevOps**: `Docker` `Terraform` `Git` `GitLab`
+
+**Testing & Logging**: `Unittest` `Pytest` `Logging`
+
+# ⚡ Fun fact
+
+- One-Punch Man is my favorite anime.
+- I enjoy listening to gentle songs, but sometimes I also like remixes.
+
+# 📫 Contact
+
+Connect with me, [LinkedIn](www.linkedin.com/in/long-nguyen-de203)
+
 
