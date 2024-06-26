@@ -1,4 +1,4 @@
-## Hey, I'm Long 👋
+## Hey, I'm Long Nguyen 👋
 
 I am an Artificial Intelligence major in Vietnam with a passion for data engineer and I am actively seeking job opportunities in this field.
 
