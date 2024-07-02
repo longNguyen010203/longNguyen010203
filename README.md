@@ -22,6 +22,7 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 - One-Punch Man is my favorite anime.
 - I enjoy listening to gentle songs, but sometimes I also like remixes.
+- I'm 21 years old but I don't know how to swim.
 
 # 📫 Contact
 
