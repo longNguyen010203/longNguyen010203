@@ -6,7 +6,7 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 **Languages**: `Python` `SQL` `PySpark` `Shell` `C++`
 
-**Processing**: `Apache Spark` `Dbt` `Pandas` `Numpy` `Polars` `Seaborn` `Airbyte` `Matplotlib` `BeautifulSoup` `Selenium` `ETL` `ELT` `Batch Processing`
+**Processing**: `Apache Spark` `Dbt` `Pandas` `Numpy` `Polars` `Seaborn` `Airbyte` `Matplotlib` `BeautifulSoup` `Selenium` `ETL` `ELT`
 
 **Storage**: `PostgreSQL` `MySQL` `SQL Server` `Amazon Redshift` `Snowflake` `MinIO` `Amazon S3` `SQLite`
 
