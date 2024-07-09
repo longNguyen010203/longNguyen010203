@@ -6,13 +6,13 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 **Languages**: `Python` `SQL` `PySpark` `Shell` `C++`
 
-**Processing**: `Apache Spark` `Dbt` `Pandas` `Numpy` `Polars` `Seaborn` `Airbyte` `Matplotlib` `BeautifulSoup` `Selenium` `ETL` `ELT`
+**Processing**: `Spark` `Dbt` `Pandas` `Numpy` `Polars` `Seaborn` `Airbyte` `Matplotlib` `BeautifulSoup` `Selenium` `ETL` `ELT`
 
-**Storage**: `PostgreSQL` `MySQL` `SQL Server` `Amazon Redshift` `Snowflake` `MinIO` `Amazon S3` `SQLite`
+**Storage**: `PostgreSQL` `MySQL` `SQLServer` `Redshift` `Snowflake` `MinIO` `S3` `SQLite`
 
-**Orchestration**: `Apache Airflow` `Dagster`
+**Orchestration**: `Airflow` `Dagster`
 
-**Cloud**: `S3` `EC2` `IAM` `VPC` `Redshift` `EMR`
+**Cloud**: `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue`
 
 **DevOps**: `Docker` `Terraform` `Git` `GitLab`
 
