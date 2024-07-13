@@ -8,9 +8,9 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 **Processing**: `Spark` `Dbt` `Pandas` `Numpy` `Polars` `Seaborn` `Airbyte` `Matplotlib` `ETL` `ELT`
 
-**Scrapping**: `BeautifulSoup` `Selenium`
-
 **Storage**: `PostgreSQL` `MySQL` `SQLServer` `Redshift` `Snowflake` `MinIO` `S3` `SQLite`
+
+**Scrapping**: `BeautifulSoup` `Selenium`
 
 **Orchestration**: `Airflow` `Dagster`
 
