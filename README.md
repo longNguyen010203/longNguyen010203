@@ -20,7 +20,7 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 **Orchestration**: `Airflow` `Dagster`
 
-**DevOps**: `Docker` `Terraform` `Git` `GitLab`
+**DevOps**: `Docker` `Zookeeper` `Terraform` `Git` `GitLab`
 
 **Testing & Logging**: `Unittest` `Pytest` `Logging`
 
