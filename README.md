@@ -32,6 +32,6 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 # 📫 Contact
 
-Connect with me, [LinkedIn](www.linkedin.com/in/long-nguyen-de203)
+Connect with me, [LinkedIn](https://www.linkedin.com/in/long-nguyen-de203/)
 
 
