@@ -8,7 +8,7 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 **Architecture**: `ETL` `ELT` `Lambda` `Kappa` `Star Schema` `Snowflake Schema`
 
-**Processing**: `Spark` `Kafka` `Flink` `Dbt` `Pandas` `Polars` `Airbyte` `Numpy`
+**Processing**: `Spark` `Kafka` `Debezium` `Dbt` `Pandas` `Polars` `Airbyte` `Numpy`
 
 **Storage**: `PostgreSQL` `MySQL` `SQLServer` `Redshift` `Snowflake` `MinIO` `S3` `SQLite`
 
