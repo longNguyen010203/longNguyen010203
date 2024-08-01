@@ -12,7 +12,7 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 **Storage**: `PostgreSQL` `MySQL` `SQLServer` `Redshift` `Snowflake` `MinIO` `S3` `SQLite`
 
-**Cloud**: `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue`
+**Cloud (AWS)**: `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue`
 
 **Visualization**: `Seaborn` `Matplotlib`
 
