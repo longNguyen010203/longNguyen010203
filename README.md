@@ -19,7 +19,7 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 **Testing & Logging**: `Unittest` `Pytest` `Logging`
 
 # 📢 Certificates
-<img src="https://github.com/user-attachments/assets/8cb6179d-457d-491d-9164-16aa76c89a78" width="150px" />
+<img src="https://github.com/user-attachments/assets/8cb6179d-457d-491d-9164-16aa76c89a78" width="150px" style="display:inline-block;">
 
 # ⚡ Fun fact
 
