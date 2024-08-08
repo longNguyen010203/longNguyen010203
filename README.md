@@ -18,6 +18,8 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 **Testing & Logging**: `Unittest` `Pytest` `Logging`
 
+# 📢 Certificates
+
 # ⚡ Fun fact
 
 - One-Punch Man is my favorite anime.
