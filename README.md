@@ -10,11 +10,11 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 
 **Processing**: `Spark` `Kafka` `Airflow` `Dagster` `Dbt` `Pandas` `Polars` `Airbyte` `Selenium` `BeautifulSoup` `Seaborn` `Matplotlib`
 
-**Storage**: `Snowflake` `Redshift` `S3` `SQLServer` `PostgreSQL` `MySQL` `MinIO` `SQLite`
+**Storage**: `Snowflake` `RDS` `DynamoDB` `Redshift` `S3` `SQL Server` `PostgreSQL` `MySQL` `MinIO` `SQLite`
 
-**Cloud**: `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` 
+**Cloud**: `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` `Lambda` `DynamoDB` `Kinesis` `CloudWatch`
 
-**DevOps**: `Docker` `Zookeeper` `Terraform` `Git` `GitLab`
+**DevOps**: `Docker` `Zookeeper` `Terraform` `GitHub Actions` `Git` `GitLab`
 
 **Testing & Logging**: `Unittest` `Pytest` `Logging`
 
