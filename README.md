@@ -23,12 +23,14 @@ I am an Artificial Intelligence major in Vietnam with a passion for data enginee
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/cad04b7f-573b-4d92-be61-985a9efab470" width="120px" style="display:inline-block;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/4ab3a840-ac1c-4031-ad81-90dd2b54e311" width="120px" style="display:inline-block;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/8cb6179d-457d-491d-9164-16aa76c89a78" width="110px" style="display:inline-block;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/c33cfb94-6006-4528-942b-29700c4e106e" width="170px" style="display:inline-block;">
+<img src="https://github.com/user-attachments/assets/4ab3a840-ac1c-4031-ad81-90dd2b54e311" width="120px" style="display:inline-block;"> <br>
 
+&nbsp;
+<img src="https://github.com/user-attachments/assets/11bc2c30-8171-465c-833c-061776d48690" width="110px" style="display:inline-block;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/8cb6179d-457d-491d-9164-16aa76c89a78" width="110px" style="display:inline-block;">
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/c33cfb94-6006-4528-942b-29700c4e106e" width="170px" style="display:inline-block;">
 
 # ⚡ Fun fact
 
