@@ -25,9 +25,9 @@ I'm an Artificial Intelligence major in Vietnam, passionate about data engineeri
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/cad04b7f-573b-4d92-be61-985a9efab470" width="120px" style="display:inline-block;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/4ab3a840-ac1c-4031-ad81-90dd2b54e311" width="120px" style="display:inline-block;"> <br>
-<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/19c715da-2dd2-4cfd-9b09-3283831241fb" width="120px" style="display:inline-block;"> -->
+<img src="https://github.com/user-attachments/assets/4ab3a840-ac1c-4031-ad81-90dd2b54e311" width="120px" style="display:inline-block;"> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/19c715da-2dd2-4cfd-9b09-3283831241fb" width="120px" style="display:inline-block;"> <br>
 
 
 
