@@ -12,7 +12,7 @@ I'm an Artificial Intelligence major in Vietnam, passionate about data engineeri
 
 **Storage**: `Snowflake` `RDS` `DynamoDB` `Redshift` `S3` `SQL Server` `PostgreSQL` `MySQL` `MinIO` `SQLite`
 
-**Cloud**: `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` `Lambda` `DynamoDB` `Kinesis` `CloudWatch`
+**Cloud**: `CloudFormation` `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` `Lambda` `DynamoDB` `Kinesis` <!--`CloudWatch` -->
 
 **DevOps**: `Docker` `Zookeeper` `Terraform` `GitHub Actions` `Git` `GitLab`
 
