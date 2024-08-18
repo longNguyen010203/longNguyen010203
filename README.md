@@ -1,6 +1,6 @@
 ## Hey, I'm Long Nguyen 👋
 
-I'm an Artificial Intelligence major in Vietnam, passionate about data engineering. I'm actively honing my skills, expanding my knowledge, and seeking work opportunities in this field, with a current focus on deepening my understanding of cloud technologies.
+I'm an Artificial Intelligence major in VN, passionate about data engineering. I'm actively honing my skills, expanding my knowledge, and seeking work opportunities in this field, with a current focus on deepening my understanding of cloud technologies.
 
 # 📦 Technologies
 
@@ -12,11 +12,11 @@ I'm an Artificial Intelligence major in Vietnam, passionate about data engineeri
 
 **Storage**: `Snowflake` `RDS` `DynamoDB` `Redshift` `S3` `SQL Server` `PostgreSQL` `MySQL` `MinIO` `SQLite`
 
-**Cloud**: `CloudFormation` `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` `Lambda` `DynamoDB` `Kinesis` <!--`CloudWatch` -->
+**Cloud-AWS**: `CloudFormation` `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` `Lambda` `DynamoDB` `Kinesis` <!--`CloudWatch` -->
 
 **DevOps**: `Docker` `Zookeeper` `Terraform` `GitHub Actions` `Git` `GitLab`
 
-**Testing & Logging**: `Unittest` `Pytest` `Logging`
+<!-- **Testing & Logging**: `Unittest` `Pytest` `Logging` -->
 
 # 📢 Certificates
 <img src="https://github.com/user-attachments/assets/55c5b142-299b-4b09-b353-bac9623613a5" width="140px" style="display:inline-block;">
