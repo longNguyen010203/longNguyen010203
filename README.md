@@ -10,7 +10,7 @@ I'm an Artificial Intelligence major in Vietnam, passionate about data engineeri
 
 **Processing**: `Spark` `Kafka` `Airflow` `Databricks` `Dagster` `Dbt` `Pandas` `Polars` `Airbyte` `Selenium` `BeautifulSoup` <!--`Seaborn` `Matplotlib`-->
 
-**Storage**: `Snowflake` `RDS` `DynamoDB` `Redshift` `S3` `SQL Server` `PostgreSQL` `MySQL` `MinIO` `SQLite`
+**Storage**: `Snowflake` `RDS` `DynamoDB` `Redshift` `S3` `DuckDB` `SQL Server` `PostgreSQL` `MySQL` `MinIO` `SQLite`
 
 **AWS**: `CloudFormation` `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` `Lambda` `DynamoDB` `Kinesis` <!--`CloudWatch` -->
 
