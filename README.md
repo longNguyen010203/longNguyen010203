@@ -1,6 +1,6 @@
 ## Hey, I'm Long Nguyen 👋
 
-I'm an Artificial Intelligence major in Vietnam, passionate about data engineering. I'm actively honing my skills, expanding my knowledge, and seeking work opportunities in this field, with a current focus on deepening my understanding of cloud technologies.
+I'm an Artificial Intelligence major in Vietnam, passionate about data engineering. I'm actively honing my skills, expanding my knowledge and seeking work opportunities in this field, with a current focus on deepening my understanding of cloud technologies.
 
 # 📦 Technologies
 
@@ -8,15 +8,14 @@ I'm an Artificial Intelligence major in Vietnam, passionate about data engineeri
 
 **Architecture**: `ETL` `ELT` `Lambda` `Kappa` `Star Schema` `Snowflake Schema`
 
-**Processing**: `Spark` `Kafka` `Airflow` `Databricks` `Dagster` `Dbt` `Pandas` `Polars` `Airbyte` `Selenium` `BeautifulSoup` <!--`Seaborn` `Matplotlib`-->
+**Processing**: `Spark` `Kafka` `Flink` `Databricks` `Airflow` `Dagster` `Dbt` `Pandas` `Polars` `Airbyte`
 
 **Storage**: `Snowflake` `RDS` `DynamoDB` `Redshift` `S3` `DuckDB` `SQL Server` `PostgreSQL` `MySQL` `MinIO` `SQLite`
 
-**AWS**: `CloudFormation` `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` `Lambda` `DynamoDB` `Kinesis` <!--`CloudWatch` -->
+**AWS**: `CloudFormation` `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` `Lambda` `DynamoDB` `Kinesis`
 
-**DevOps**: `Docker` `Zookeeper` `Terraform` `GitHub Actions` `Git` `GitLab`
+**DevOps**: `Docker` `Zookeeper` `Terraform` `Git` `GitLab` `GitHub Actions`
 
-<!-- **Testing & Logging**: `Unittest` `Pytest` `Logging` -->
 
 # 📢 Certificates
 <img src="https://github.com/user-attachments/assets/55c5b142-299b-4b09-b353-bac9623613a5" width="140px" style="display:inline-block;">
