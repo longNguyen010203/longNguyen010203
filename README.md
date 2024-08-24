@@ -24,18 +24,18 @@ I'm an Artificial Intelligence major in Vietnam, passionate about data engineeri
 
 <img src="https://github.com/user-attachments/assets/1603affd-d296-4f11-aca1-3bf31e93e5f7" width="155px" style="display:inline-block;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/11bc2c30-8171-465c-833c-061776d48690" width="110px" style="display:inline-block;">
+<img src="https://github.com/user-attachments/assets/f8883a2d-076d-42be-bd1c-6deffb0eaa37" width="110px" style="display:inline-block;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/8cb6179d-457d-491d-9164-16aa76c89a78" width="110px" style="display:inline-block;">
+<img src="https://github.com/user-attachments/assets/e586ba47-74bf-40be-ae4f-f1ac2475538c" width="110px" style="display:inline-block;">
 &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/c33cfb94-6006-4528-942b-29700c4e106e" width="170px" style="display:inline-block;"> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/f750da06-3e71-4efd-98a9-71169aebdea5" width="160px" style="display:inline-block;"> <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<img src="https://github.com/user-attachments/assets/0f6862ec-e550-4736-aaf8-7dbdad321811" width="120px" style="display:inline-block;">
+<img src="https://github.com/user-attachments/assets/ddf9b530-3074-4db3-9dbe-18bc3cda02c9" width="130px" style="display:inline-block;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
-<img src="https://github.com/user-attachments/assets/cad04b7f-573b-4d92-be61-985a9efab470" width="120px" style="display:inline-block;">
+<img src="https://github.com/user-attachments/assets/a559e713-f221-4753-b281-2fde9f420c92" width="130px" style="display:inline-block;">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/4ab3a840-ac1c-4031-ad81-90dd2b54e311" width="120px" style="display:inline-block;"> 
+<img src="https://github.com/user-attachments/assets/2118c24b-dd02-4008-bce1-d67727385a7b" width="130px" style="display:inline-block;"> 
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/19c715da-2dd2-4cfd-9b09-3283831241fb" width="120px" style="display:inline-block;">  -->
 
