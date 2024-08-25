@@ -4,7 +4,7 @@ I'm an Artificial Intelligence major in Vietnam, passionate about data engineeri
 
 # 📦 Technologies
 
-**Languages**: `Python` `SQL` `PySpark` `Shell` `R` `Scala` `C++` 
+**Languages**: `Python` `SQL` `PySpark` `Shell` `Java` `C++` 
 
 **Architecture**: `ETL` `ELT` `Lambda` `Kappa` `Star Schema` `Snowflake Schema`
 
