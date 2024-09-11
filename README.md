@@ -43,12 +43,11 @@ I'm an Artificial Intelligence major in Vietnam, passionate about data engineeri
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/19c715da-2dd2-4cfd-9b09-3283831241fb" width="120px" style="display:inline-block;">  -->
 
-<!--# ⚡ Fun fact
+# ⚡ Fun fact
 
 - One-Punch Man is my favorite anime.
 - I enjoy listening to gentle songs, but sometimes I also like remixes.
 - I'm 21 years old but I don't know how to swim.
--->
 
 # 📫 Contact
 
