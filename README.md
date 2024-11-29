@@ -10,17 +10,17 @@ I'm an Artificial Intelligence major in Vietnam, passionate about data engineeri
 <!--
 # 📦 Technologies
 
-**Languages**: `Python` `SQL` `PySpark` `Shell` `Java` `C++` 
+**Languages**: `Python` `SQL` `PySpark` `C++` `PL-SQL` `T-SQL`
 
 **Architecture**: `ETL` `ELT` `Lambda` `Kappa` `Star Schema` `Snowflake Schema`
 
-**Processing**: `Spark` `Kafka` `Flink` `Debezium` `Databricks` `Airflow` `Dagster` `Dbt` `Pandas` `Polars` `Airbyte`
+**Processing**: `Spark` `Kafka` `Airflow` `Dagster` `Dbt` `Pandas` `Polars`
 
-**Storage**: `Snowflake` `RDS` `DynamoDB` `Redshift` `S3` `DuckDB` `SQL Server` `PostgreSQL` `MySQL` `MinIO` `SQLite`
+**Storage**: `Snowflake` `S3` `SQL Server` `PostgreSQL` `MySQL` `MinIO` `SQLite`
 
-**AWS**: `CloudFormation` `S3` `EC2` `IAM` `VPC` `Redshift` `EMR` `Glue` `RDS` `Lambda` `DynamoDB` `Kinesis`
+**AWS**: `CloudFormation` `S3` `EC2` `IAM` `VPC` `EMR` `Lambda` `Kinesis
 
-**DevOps**: `Docker` `Zookeeper` `Terraform` `Git` `GitLab` `GitHub Actions`
+**DevOps**: `Docker` `Git`
 -->
 
 # 📢 Certificates
